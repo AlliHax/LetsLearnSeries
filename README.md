@@ -17,5 +17,5 @@ Here is a simple challenge to get you some more practice with grep. Add these th
 [file3]()
 
 Each of these files contains a password, all 3 of the passwords makes one flag.
-The password format is ``` "password=xxxxxx" ```
+In the files, the password format is ``` "password=xxxxxx" ```
 Find all three passwords in these files. See if you can get all three passwords in one command run.
