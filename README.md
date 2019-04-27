@@ -7,7 +7,7 @@ Provided resources for following along with the Let's Learn Series on the Learn 
 
 Copy and paste the text into your file.
 
-Bonus Challenge!
+##### Bonus Challenge!
 Here is a simple challenge to get you some more practice with grep. Add these three files to your machine and try to find the password.
 
 [file1]()
