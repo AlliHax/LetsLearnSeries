@@ -10,11 +10,11 @@ Copy and paste the text into your file.
 ##### Bonus Challenge!
 Here is a simple challenge to get you some more practice with grep. Add these three files to your machine and try to find the password.
 
-[file1]()
+[file1](https://github.com/TheComicGirl/LetsLearnSeries/blob/master/File1.txt)
 
-[file2]()
+[file2](https://github.com/TheComicGirl/LetsLearnSeries/blob/master/File2.txt)
 
-[file3]()
+[file3](https://github.com/TheComicGirl/LetsLearnSeries/blob/master/File3.txt)
 
 Each of these files contains a password, all 3 of the passwords makes one flag.
 In the files, the password format is ``` "password=xxxxxx" ```
